@@ -2,3 +2,5 @@ Ignore folder named `.vs`
 vs/
 Ignore folder named `v15`
 v15/
+Ignore folder named `netcoreapp2.0`
+*/netcoreapp2.0/
