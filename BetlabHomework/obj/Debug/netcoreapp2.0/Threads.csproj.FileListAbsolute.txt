@@ -1,0 +1,11 @@
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\Threads.deps.json
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\Threads.runtimeconfig.json
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\Threads.runtimeconfig.dev.json
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\Threads.dll
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\Threads.pdb
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\Threads.csprojResolveAssemblyReference.cache
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\Threads.AssemblyInfoInputs.cache
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\Threads.AssemblyInfo.cs
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\Threads.dll
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\Threads.pdb

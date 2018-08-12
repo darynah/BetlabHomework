@@ -1,0 +1,11 @@
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\bin\Debug\netcoreapp2.0\ConditionalStatementsСycles.deps.json
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\bin\Debug\netcoreapp2.0\ConditionalStatementsСycles.runtimeconfig.json
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\bin\Debug\netcoreapp2.0\ConditionalStatementsСycles.runtimeconfig.dev.json
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\bin\Debug\netcoreapp2.0\ConditionalStatementsСycles.dll
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\bin\Debug\netcoreapp2.0\ConditionalStatementsСycles.pdb
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\ConditionalStatementsСycles.csprojResolveAssemblyReference.cache
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\ConditionalStatementsСycles.csproj.CoreCompileInputs.cache
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\ConditionalStatementsСycles.AssemblyInfoInputs.cache
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\ConditionalStatementsСycles.AssemblyInfo.cs
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\ConditionalStatementsСycles.dll
+C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\ConditionalStatementsСycles.pdb

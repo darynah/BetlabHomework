@@ -1,0 +1,11 @@
+C:\Users\Darin\source\repos\BetlabHomework\Homework\bin\Debug\netcoreapp2.0\01ClassConstructor.deps.json
+C:\Users\Darin\source\repos\BetlabHomework\Homework\bin\Debug\netcoreapp2.0\01ClassConstructor.runtimeconfig.json
+C:\Users\Darin\source\repos\BetlabHomework\Homework\bin\Debug\netcoreapp2.0\01ClassConstructor.runtimeconfig.dev.json
+C:\Users\Darin\source\repos\BetlabHomework\Homework\bin\Debug\netcoreapp2.0\01ClassConstructor.dll
+C:\Users\Darin\source\repos\BetlabHomework\Homework\bin\Debug\netcoreapp2.0\01ClassConstructor.pdb
+C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\01ClassConstructor.csprojResolveAssemblyReference.cache
+C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\01ClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\01ClassConstructor.AssemblyInfoInputs.cache
+C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\01ClassConstructor.AssemblyInfo.cs
+C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\01ClassConstructor.dll
+C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\01ClassConstructor.pdb

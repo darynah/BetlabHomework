@@ -1,0 +1,10 @@
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\BetlabHomework.deps.json
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\BetlabHomework.runtimeconfig.json
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\BetlabHomework.runtimeconfig.dev.json
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\BetlabHomework.dll
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\BetlabHomework.pdb
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\BetlabHomework.csproj.CoreCompileInputs.cache
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\BetlabHomework.AssemblyInfoInputs.cache
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\BetlabHomework.AssemblyInfo.cs
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\BetlabHomework.dll
+c:\users\darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\BetlabHomework.pdb

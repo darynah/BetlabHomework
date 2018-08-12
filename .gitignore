@@ -1,2 +1,4 @@
 Ignore folder named `.vs`
-vs
+vs/
+Ignore folder named `v15`
+v15/

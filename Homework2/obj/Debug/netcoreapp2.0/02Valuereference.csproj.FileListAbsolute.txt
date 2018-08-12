@@ -1,0 +1,10 @@
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\bin\Debug\netcoreapp2.0\02Valuereference.deps.json
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\bin\Debug\netcoreapp2.0\02Valuereference.runtimeconfig.json
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\bin\Debug\netcoreapp2.0\02Valuereference.runtimeconfig.dev.json
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\bin\Debug\netcoreapp2.0\02Valuereference.dll
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\bin\Debug\netcoreapp2.0\02Valuereference.pdb
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.csproj.CoreCompileInputs.cache
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.AssemblyInfoInputs.cache
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.AssemblyInfo.cs
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.dll
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.pdb
