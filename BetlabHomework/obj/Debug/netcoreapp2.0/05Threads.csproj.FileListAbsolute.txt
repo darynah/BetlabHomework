@@ -3,7 +3,6 @@ C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\05Threads.runtimeconfig.dev.json
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\05Threads.dll
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\bin\Debug\netcoreapp2.0\05Threads.pdb
-C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\05Threads.csprojResolveAssemblyReference.cache
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\05Threads.csproj.CoreCompileInputs.cache
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\05Threads.AssemblyInfoInputs.cache
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\05Threads.AssemblyInfo.cs

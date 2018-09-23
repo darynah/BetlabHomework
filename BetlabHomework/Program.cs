@@ -10,10 +10,8 @@ namespace BetlabHomework
     {
         static void Main(string[] args)
         {
-
             Readlines("playlist.csv");
             Console.ReadLine();
-
         }
 
         private static void Readlines(string filename)
@@ -21,8 +19,6 @@ namespace BetlabHomework
            var input = int.Parse(Console.ReadLine());
            List<string> list = File.ReadAllLines("playlist.csv").ToList();
            Console.Write(list[input]);
-           
-           
         }
     }
 }

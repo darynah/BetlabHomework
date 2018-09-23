@@ -8,3 +8,4 @@ C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\0103
 C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\0103ClassConstructor.AssemblyInfo.cs
 C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\0103ClassConstructor.dll
 C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\0103ClassConstructor.pdb
+C:\Users\Darin\source\repos\BetlabHomework\Homework\obj\Debug\netcoreapp2.0\0103ClassConstructor.csprojResolveAssemblyReference.cache

@@ -8,3 +8,4 @@ C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02V
 C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.AssemblyInfo.cs
 C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.dll
 C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.pdb
+C:\Users\Darin\source\repos\BetlabHomework\Homework2\obj\Debug\netcoreapp2.0\02Valuereference.csprojResolveAssemblyReference.cache
