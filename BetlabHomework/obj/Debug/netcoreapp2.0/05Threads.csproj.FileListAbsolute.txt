@@ -8,3 +8,4 @@ C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\05Threads.AssemblyInfo.cs
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\05Threads.dll
 C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\05Threads.pdb
+C:\Users\Darin\source\repos\BetlabHomework\BetlabHomework\obj\Debug\netcoreapp2.0\05Threads.csprojResolveAssemblyReference.cache
