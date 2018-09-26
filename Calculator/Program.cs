@@ -20,7 +20,7 @@ namespace Calculator
             double number;
             while (!Double.TryParse(Console.ReadLine(), out number))
             {
-                Console.Write("Вы ввели неправильное число: ");
+                Console.Write("Вы ввели неправильное число");
                 Console.ReadLine();// для того чтобы консоль не закрывалась
             }
             return number;
