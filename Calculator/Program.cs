@@ -28,7 +28,6 @@ namespace Calculator
         public static void SuperCalc(double number1, double number2, string operation)
         {
             if (operation == "+")
-
                 Console.WriteLine("Pезультат: {0}", number1 + number2);
             else if (operation == "-")
                 Console.WriteLine("Pезультат: {0}", number1 - number2);
@@ -37,4 +36,3 @@ namespace Calculator
         }
     }
 }
-

@@ -8,4 +8,3 @@ C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debu
 C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\04ConditionalStatementsСycles.AssemblyInfo.cs
 C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\04ConditionalStatementsСycles.dll
 C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\04ConditionalStatementsСycles.pdb
-C:\Users\Darin\source\repos\BetlabHomework\ConditionalStatementsСycles\obj\Debug\netcoreapp2.0\04ConditionalStatementsСycles.csprojResolveAssemblyReference.cache
